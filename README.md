@@ -1,24 +1,20 @@
-# vue-calculadora
+# 🧮 Calculadora Vue
 
-## Project setup
-```
-npm install
-```
+Uma calculadora desenvolvida em Vue.js que permite realizar operações básicas como adição, subtração, multiplicação e divisão.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🚀 Tecnologias Usadas
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Vue.js
+- HTML5
+- CSS3
 
-### Lints and fixes files
-```
-npm run lint
-```
+## ✨ O que faz
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Esta aplicação permite aos usuários:
+
+- Realizar cálculos simples.
+- Usar uma interface intuitiva e responsiva.
+
+## 💬 Agradecimentos
+
+Obrigado por conferir este projeto! Espero que seja útil e divertida de usar. Sinta-se à vontade para explorar, fazer sugestões ou contribuir. Juntos, podemos torná-la ainda melhor! 🤝✨
